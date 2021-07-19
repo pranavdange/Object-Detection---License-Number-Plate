@@ -8,10 +8,14 @@ https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&ty
 
 Drive Link for Trained Model –
 https://drive.google.com/drive/folders/1Diy9gLYAlwk4q3XR5YUVp-xW88Tgurhb?usp=sharing
-![image](https://user-images.githubusercontent.com/75486718/126176199-d41bbca8-7b1c-48aa-93e9-f67c8c95a34a.png)
+
 
 Workflow
+
+
 ![image](https://user-images.githubusercontent.com/75486718/126176277-324a7eaa-2c90-4642-b196-3f7c32ca66b4.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/75486718/126176304-d15e59bf-e4e1-4afe-8b39-48df0eb49b49.png)
 
@@ -34,12 +38,17 @@ Darknet and Tensorflow Use -
 
 
 Deployment on Local
+Input Screen -
+
 ![image](https://user-images.githubusercontent.com/75486718/126176694-b068eb4f-c4a4-4277-997f-f594664a8f09.png)
+
+Output Screen -
+
 ![image](https://user-images.githubusercontent.com/75486718/126176717-65ca047f-9497-4bbe-bf72-ae77fbfd4db8.png)
 
 Summary 
 
-Finally, using Yolo, Darknet and TensorFlow, an end to end model is created which can detect license plate from any of the images and Videos provided. Future scope of the Project includes using the same as Webcam!
+Finally, using Yolo, Darknet and TensorFlow, an end to end model is created which can detect license plate from any of the images and Videos provided. Future scope of the Project includes using the same as Webcam.
 
 Note -
 
